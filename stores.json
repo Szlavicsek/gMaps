@@ -1,0 +1,1868 @@
+{
+    "stores": [
+        {
+            "storeCode": "GB0877",
+            "storeClass": "F",
+            "name": "H&M Birmingham New Street",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "6-9 New Street",
+                "streetName2": "",
+                "postCode": "B2 4RG",
+                "postalAddress": "Birmingham"
+            },
+            "city": "Birmingham",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -1.890401,
+            "latitude": 52.48624299999999,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "04f95b64-9d3a-4ab7-b5d0-0c264b195848",
+                            "name": "Divided Male"
+                        },
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "4d59fe7c-1eeb-4b09-a364-df22a5989d75",
+                    "name": "Beauty",
+                    "concepts": [
+                        {
+                            "conceptId": "211c527d-894c-4067-a47d-0ce6366e0831",
+                            "name": "Body / Hair"
+                        },
+                        {
+                            "conceptId": "87a97270-71eb-4227-9325-b953b3565167",
+                            "name": "Make up"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "26c36e0b-43b4-48b3-98ac-34bde15a7473",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "822c335d-2a95-4415-bb32-8766de214b84",
+                            "name": "H&M Man Modern Classic"
+                        },
+                        {
+                            "conceptId": "914bd3ea-2184-4d2d-b1e7-59246e824b3d",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "a408b898-681b-4061-b568-e414687f1e50",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "c507d49e-7991-4aad-9bd0-35d7193964c6",
+                            "name": "Man Trend"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "f2a5dabd-e109-4be1-aee8-776fc83c8e79",
+                            "name": "H&M Sport"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "113c1f0f-134b-487d-b699-d8299aa687d8",
+                            "name": "H&M Sport"
+                        },
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "4ed737d4-4908-4d38-9dd1-b6385a3830fc",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "27312d9b-bed2-4a96-8509-11b9e4a52168",
+                            "name": "H&M Mama"
+                        },
+                        {
+                            "conceptId": "28f879c9-e877-4c55-849e-aef51510c3ef",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "4b6e8f5d-fdec-459e-9cf2-09a5099b993e",
+                            "name": "H&M Ladies Modern Classic"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "81e34c80-12e8-4269-8b59-c5c7e3210bc4",
+                            "name": "H&M Trend Ladies"
+                        },
+                        {
+                            "conceptId": "a1699d67-7b09-47a2-a39e-37ba16a74b7d",
+                            "name": "Cosmetics"
+                        },
+                        {
+                            "conceptId": "a3ff9a3f-2ad7-4009-b91b-941f882777d5",
+                            "name": "H&M Sport"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "fd3da5cd-6c63-45c5-8d8d-c8787ee4a471",
+                            "name": "H&M+"
+                        },
+                        {
+                            "conceptId": "ffc7661b-6e76-4dc9-9005-98eac468cf98",
+                            "name": "Ladies Shoes"
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB1404",
+            "storeClass": "F",
+            "name": "H&M HOME Birmingham",
+            "phone": "+44-1215197550",
+            "address": {
+                "streetName1": "MSU12 Bull Ring Shopping Centre",
+                "streetName2": "",
+                "postCode": "B5 4BG",
+                "postalAddress": "Birmingham"
+            },
+            "city": "Birmingham",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -1.896096,
+            "latitude": 52.478812,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "09:00",
+                    "closes": "19:00"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "09:00",
+                    "closes": "19:00"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "09:00",
+                    "closes": "19:00"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "09:00",
+                    "closes": "19:00"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "09:00",
+                    "closes": "19:00"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "09:00",
+                    "closes": "19:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "5f939439-0d5c-4929-af75-ccb5e74d6ced",
+                    "name": "H&M Home",
+                    "concepts": [
+                        {
+                            "conceptId": "f51aab8e-d82c-4196-90ee-d6096f24c2b7",
+                            "name": "H&M Home"
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0348",
+            "storeClass": "Red",
+            "name": "H&M Birmingham Bullring",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "MSU12 Upper Mall West",
+                "streetName2": "Bullring Shopping Centre",
+                "postCode": "B5 4BG",
+                "postalAddress": "Birmingham"
+            },
+            "city": "Birmingham",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -1.89490556716919,
+            "latitude": 52.47724569504813,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "04f95b64-9d3a-4ab7-b5d0-0c264b195848",
+                            "name": "Divided Male"
+                        },
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "5f939439-0d5c-4929-af75-ccb5e74d6ced",
+                    "name": "H&M Home",
+                    "concepts": [
+                        {
+                            "conceptId": "f51aab8e-d82c-4196-90ee-d6096f24c2b7",
+                            "name": "H&M Home"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "914bd3ea-2184-4d2d-b1e7-59246e824b3d",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "a408b898-681b-4061-b568-e414687f1e50",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "4ed737d4-4908-4d38-9dd1-b6385a3830fc",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "4b6e8f5d-fdec-459e-9cf2-09a5099b993e",
+                            "name": "H&M Ladies Modern Classic"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "84250391-db2a-4ade-876a-819aa95a2c15",
+                            "name": "Urban Basics"
+                        },
+                        {
+                            "conceptId": "ffc7661b-6e76-4dc9-9005-98eac468cf98",
+                            "name": "Ladies Shoes"
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0758",
+            "storeClass": "Blue",
+            "name": "H&M Birmingham The Fort",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "The Fort Shopping Centre",
+                "streetName2": "20 Fort Parkway",
+                "postCode": "B24 9FP",
+                "postalAddress": "BIRMINGHAM"
+            },
+            "city": "Birmingham",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -1.82252883911133,
+            "latitude": 52.50843773595381,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "4ed737d4-4908-4d38-9dd1-b6385a3830fc",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "f41e73b6-d848-455e-bd9d-ad66238853ec",
+                            "name": "H&M L.O.G.G."
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0721",
+            "storeClass": "Blue",
+            "name": "H&M Sutton Coldfield",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "Gracechurch Centre",
+                "streetName2": "",
+                "postCode": "B72 1PD"
+            },
+            "city": "Sutton Coldfield",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -1.82446002960205,
+            "latitude": 52.56242110515409,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "10:30",
+                    "closes": "16:30"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "04f95b64-9d3a-4ab7-b5d0-0c264b195848",
+                            "name": "Divided Male"
+                        },
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "26c36e0b-43b4-48b3-98ac-34bde15a7473",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "914bd3ea-2184-4d2d-b1e7-59246e824b3d",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "a408b898-681b-4061-b568-e414687f1e50",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "4ed737d4-4908-4d38-9dd1-b6385a3830fc",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "f41e73b6-d848-455e-bd9d-ad66238853ec",
+                            "name": "H&M L.O.G.G."
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "27312d9b-bed2-4a96-8509-11b9e4a52168",
+                            "name": "H&M Mama"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "ffc7661b-6e76-4dc9-9005-98eac468cf98",
+                            "name": "Ladies Shoes"
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0833",
+            "storeClass": "Blue",
+            "name": "H&M West Bromwich",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "Unit 4-5 New Square",
+                "streetName2": "West Bromwich",
+                "postCode": "B70 7PP",
+                "postalAddress": "Est Bromwich"
+            },
+            "city": "West Bromwich",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -2.0120258,
+            "latitude": 52.5370388,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "04f95b64-9d3a-4ab7-b5d0-0c264b195848",
+                            "name": "Divided Male"
+                        },
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "4d59fe7c-1eeb-4b09-a364-df22a5989d75",
+                    "name": "Beauty",
+                    "concepts": [
+                        {
+                            "conceptId": "211c527d-894c-4067-a47d-0ce6366e0831",
+                            "name": "Body / Hair"
+                        },
+                        {
+                            "conceptId": "87a97270-71eb-4227-9325-b953b3565167",
+                            "name": "Make up"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "26c36e0b-43b4-48b3-98ac-34bde15a7473",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "914bd3ea-2184-4d2d-b1e7-59246e824b3d",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "a408b898-681b-4061-b568-e414687f1e50",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "f2a5dabd-e109-4be1-aee8-776fc83c8e79",
+                            "name": "H&M Sport"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "4ed737d4-4908-4d38-9dd1-b6385a3830fc",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "27312d9b-bed2-4a96-8509-11b9e4a52168",
+                            "name": "H&M Mama"
+                        },
+                        {
+                            "conceptId": "28f879c9-e877-4c55-849e-aef51510c3ef",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "a3ff9a3f-2ad7-4009-b91b-941f882777d5",
+                            "name": "H&M Sport"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "ffc7661b-6e76-4dc9-9005-98eac468cf98",
+                            "name": "Ladies Shoes"
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0356",
+            "storeClass": "Red",
+            "name": "H&M Solihull Touchwood",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "Unit SU14",
+                "streetName2": "Touchwood Shopping Centre",
+                "postCode": "B91 3GZ",
+                "postalAddress": "Solihull"
+            },
+            "city": "Solihull",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -1.77869617938995,
+            "latitude": 52.41266184382773,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:00",
+                    "closes": "17:00"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:00",
+                    "closes": "17:00"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:00",
+                    "closes": "17:00"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:00",
+                    "closes": "17:00"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:00",
+                    "closes": "17:00"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "17:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "04f95b64-9d3a-4ab7-b5d0-0c264b195848",
+                            "name": "Divided Male"
+                        },
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "4d59fe7c-1eeb-4b09-a364-df22a5989d75",
+                    "name": "Beauty",
+                    "concepts": [
+                        {
+                            "conceptId": "211c527d-894c-4067-a47d-0ce6366e0831",
+                            "name": "Body / Hair"
+                        },
+                        {
+                            "conceptId": "87a97270-71eb-4227-9325-b953b3565167",
+                            "name": "Make up"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "26c36e0b-43b4-48b3-98ac-34bde15a7473",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "914bd3ea-2184-4d2d-b1e7-59246e824b3d",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "a408b898-681b-4061-b568-e414687f1e50",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "f41e73b6-d848-455e-bd9d-ad66238853ec",
+                            "name": "H&M L.O.G.G."
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "27312d9b-bed2-4a96-8509-11b9e4a52168",
+                            "name": "H&M Mama"
+                        },
+                        {
+                            "conceptId": "28f879c9-e877-4c55-849e-aef51510c3ef",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0315",
+            "storeClass": "Red",
+            "name": "H&M Merry Hill Centre",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "Merry Hill Centre",
+                "streetName2": "Brierley Hill",
+                "postCode": "DY5 1SJ",
+                "postalAddress": "West Midlands"
+            },
+            "city": "West Midlands",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -2.110276222229,
+            "latitude": 52.48210069545088,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "04f95b64-9d3a-4ab7-b5d0-0c264b195848",
+                            "name": "Divided Male"
+                        },
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "4d59fe7c-1eeb-4b09-a364-df22a5989d75",
+                    "name": "Beauty",
+                    "concepts": [
+                        {
+                            "conceptId": "211c527d-894c-4067-a47d-0ce6366e0831",
+                            "name": "Body / Hair"
+                        },
+                        {
+                            "conceptId": "87a97270-71eb-4227-9325-b953b3565167",
+                            "name": "Make up"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "26c36e0b-43b4-48b3-98ac-34bde15a7473",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "914bd3ea-2184-4d2d-b1e7-59246e824b3d",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "a408b898-681b-4061-b568-e414687f1e50",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "4ed737d4-4908-4d38-9dd1-b6385a3830fc",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "f41e73b6-d848-455e-bd9d-ad66238853ec",
+                            "name": "H&M L.O.G.G."
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "27312d9b-bed2-4a96-8509-11b9e4a52168",
+                            "name": "H&M Mama"
+                        },
+                        {
+                            "conceptId": "28f879c9-e877-4c55-849e-aef51510c3ef",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "a3ff9a3f-2ad7-4009-b91b-941f882777d5",
+                            "name": "H&M Sport"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "fd3da5cd-6c63-45c5-8d8d-c8787ee4a471",
+                            "name": "H&M+"
+                        },
+                        {
+                            "conceptId": "ffc7661b-6e76-4dc9-9005-98eac468cf98",
+                            "name": "Ladies Shoes"
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0854",
+            "storeClass": "Red",
+            "name": "H&M Wolverhampton",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "Unit 4, Mander Centre",
+                "streetName2": "Mander centre",
+                "postCode": "WV1 3P",
+                "postalAddress": "Wolverhampton"
+            },
+            "city": "Wolverhampton",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -2.12796169311525,
+            "latitude": 52.58473062215348,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "04f95b64-9d3a-4ab7-b5d0-0c264b195848",
+                            "name": "Divided Male"
+                        },
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "5f939439-0d5c-4929-af75-ccb5e74d6ced",
+                    "name": "H&M Home",
+                    "concepts": [
+                        {
+                            "conceptId": "f51aab8e-d82c-4196-90ee-d6096f24c2b7",
+                            "name": "H&M Home"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "26c36e0b-43b4-48b3-98ac-34bde15a7473",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "822c335d-2a95-4415-bb32-8766de214b84",
+                            "name": "H&M Man Modern Classic"
+                        },
+                        {
+                            "conceptId": "914bd3ea-2184-4d2d-b1e7-59246e824b3d",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "a408b898-681b-4061-b568-e414687f1e50",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "c507d49e-7991-4aad-9bd0-35d7193964c6",
+                            "name": "Man Trend"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "f2a5dabd-e109-4be1-aee8-776fc83c8e79",
+                            "name": "H&M Sport"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "113c1f0f-134b-487d-b699-d8299aa687d8",
+                            "name": "H&M Sport"
+                        },
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "4ed737d4-4908-4d38-9dd1-b6385a3830fc",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "27312d9b-bed2-4a96-8509-11b9e4a52168",
+                            "name": "H&M Mama"
+                        },
+                        {
+                            "conceptId": "28f879c9-e877-4c55-849e-aef51510c3ef",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "4b6e8f5d-fdec-459e-9cf2-09a5099b993e",
+                            "name": "H&M Ladies Modern Classic"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "a3ff9a3f-2ad7-4009-b91b-941f882777d5",
+                            "name": "H&M Sport"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "ffc7661b-6e76-4dc9-9005-98eac468cf98",
+                            "name": "Ladies Shoes"
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0805",
+            "storeClass": "Blue",
+            "name": "H&M Tamworth",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "Ventura Retail Park",
+                "streetName2": "Ventura Park Road",
+                "postCode": "B78 3JD"
+            },
+            "city": "Tamworth",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -1.70236587524414,
+            "latitude": 52.6270197861048,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "455c9d83-1fee-490b-ada0-d90f3c5887c1",
+                    "name": "Young",
+                    "concepts": [
+                        {
+                            "conceptId": "04f95b64-9d3a-4ab7-b5d0-0c264b195848",
+                            "name": "Divided Male"
+                        },
+                        {
+                            "conceptId": "3c50a218-79f1-4374-90e1-4f5ff4b25b29",
+                            "name": "Divided Female"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "26c36e0b-43b4-48b3-98ac-34bde15a7473",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "914bd3ea-2184-4d2d-b1e7-59246e824b3d",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "a408b898-681b-4061-b568-e414687f1e50",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "f2a5dabd-e109-4be1-aee8-776fc83c8e79",
+                            "name": "H&M Sport"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "4ed737d4-4908-4d38-9dd1-b6385a3830fc",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "9e517d99-8156-4869-b6ea-867894c0a6eb",
+                            "name": "H&M Baby"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "27312d9b-bed2-4a96-8509-11b9e4a52168",
+                            "name": "H&M Mama"
+                        },
+                        {
+                            "conceptId": "28f879c9-e877-4c55-849e-aef51510c3ef",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "34b314ff-849e-4cdc-8baf-19abdfd8e0b5",
+                            "name": "Denim"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "a3ff9a3f-2ad7-4009-b91b-941f882777d5",
+                            "name": "H&M Sport"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        },
+                        {
+                            "conceptId": "ffc7661b-6e76-4dc9-9005-98eac468cf98",
+                            "name": "Ladies Shoes"
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        },
+        {
+            "storeCode": "GB0609",
+            "storeClass": "Blue",
+            "name": "H&M Redditch",
+            "phone": "+44-3447369000",
+            "address": {
+                "streetName1": "20-22 Walford Walk",
+                "streetName2": "Kingfisher Centre",
+                "postCode": "B97 4HJ",
+                "postalAddress": "Redditch"
+            },
+            "city": "Redditch",
+            "country": "UK",
+            "countryCode": "GB",
+            "longitude": -1.94080352783203,
+            "latitude": 52.30559225404915,
+            "timeZoneIndex": 85,
+            "openingHours": [
+                {
+                    "day": 1,
+                    "name": "Mon",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 2,
+                    "name": "Tue",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 3,
+                    "name": "Wed",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 4,
+                    "name": "Thu",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 5,
+                    "name": "Fri",
+                    "opens": "10:30",
+                    "closes": "17:30"
+                },
+                {
+                    "day": 6,
+                    "name": "Sat",
+                    "opens": "10:00",
+                    "closes": "18:00"
+                },
+                {
+                    "day": 7,
+                    "name": "Sun",
+                    "opens": "11:00",
+                    "closes": "17:00"
+                }
+            ],
+            "openingHourExceptions": [],
+            "departmentsWithConcepts": [
+                {
+                    "departmentId": "4d59fe7c-1eeb-4b09-a364-df22a5989d75",
+                    "name": "Beauty",
+                    "concepts": [
+                        {
+                            "conceptId": "211c527d-894c-4067-a47d-0ce6366e0831",
+                            "name": "Body / Hair"
+                        },
+                        {
+                            "conceptId": "87a97270-71eb-4227-9325-b953b3565167",
+                            "name": "Make up"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75bdece5-dbf5-4940-97de-5b838978ab0c",
+                    "name": "Men",
+                    "concepts": [
+                        {
+                            "conceptId": "4ca74150-7ae6-4c8c-8a30-4d036c368b34",
+                            "name": "H&M Men"
+                        },
+                        {
+                            "conceptId": "c7250561-cfe9-448e-ae18-197db0af4078",
+                            "name": "Accessories"
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "75c8f766-f813-45b2-82b2-314845d2fddc",
+                    "name": "Kids",
+                    "concepts": [
+                        {
+                            "conceptId": "3a3700ff-5818-486a-a4ce-c4261f01b9cd",
+                            "name": "H&M Young"
+                        },
+                        {
+                            "conceptId": "7de1287f-c0a3-4315-be71-59f71c66eb27",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "a5bc9f53-81de-41cd-a0a8-354ca0ab9c46",
+                            "name": "H&M Kids"
+                        },
+                        {
+                            "conceptId": "d303d650-0925-47cf-9c19-374ea52fd746",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "f41e73b6-d848-455e-bd9d-ad66238853ec",
+                            "name": "H&M L.O.G.G."
+                        }
+                    ]
+                },
+                {
+                    "departmentId": "c1de9518-90eb-40df-b04e-463a3a75b165",
+                    "name": "Ladies",
+                    "concepts": [
+                        {
+                            "conceptId": "16f3305f-5cf9-476e-b236-3fbd3a1cb53b",
+                            "name": "H&M Ladies"
+                        },
+                        {
+                            "conceptId": "27312d9b-bed2-4a96-8509-11b9e4a52168",
+                            "name": "H&M Mama"
+                        },
+                        {
+                            "conceptId": "28f879c9-e877-4c55-849e-aef51510c3ef",
+                            "name": "Underwear"
+                        },
+                        {
+                            "conceptId": "51a92ff5-3d82-4661-9c68-53a9d60f98e5",
+                            "name": "Accessories"
+                        },
+                        {
+                            "conceptId": "ed1e3a91-f95e-4d7c-a206-74cfbc351564",
+                            "name": "H&M L.O.G.G."
+                        }
+                    ]
+                }
+            ],
+            "campaignConcepts": []
+        }
+    ]
+}
