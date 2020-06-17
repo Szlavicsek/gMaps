@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="flex-container">
+        <div class="search-column-wrapper">
+            <div class="search-input-wrapper">
+                <input type="text" id="search-input">
+<!--                <button id="search-button">search</button>-->
+            </div>
+            <div id="search-results">
+
+            </div>
+        </div>
+
+        <div id="map"></div>
+    </div>
+
+    <script src="index.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDGFNSFl5L20aLCL_zE3jmNDBCRPkF5gxw&callback=initMap">
+    </script>
+</body>
+</html>
